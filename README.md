@@ -63,8 +63,7 @@ This project is a Streamlit-based web application that allows users to query web
 - If FireCrawl API requests fail, check the API key in the `.env` file.
 - If the query returns an empty response, verify that the URLs contain valid content.
 
-## License
-This project is licensed under the MIT License.
+
 
 ## Acknowledgments
 - **LangChain** for text processing and retrieval
