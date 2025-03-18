@@ -20,7 +20,7 @@ This project is a Streamlit-based web application that allows users to query web
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/ChandraBabu-web/url_rag>
+   git clone [<https://github.com/ChandraBabu-web/url_rag>](https://github.com/ChandraBabu-web/url_rag.git)
    
    ```
 2. Install dependencies:
