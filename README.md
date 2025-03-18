@@ -14,6 +14,8 @@ This project is a Streamlit-based web application that allows users to query web
 ### Prerequisites
 - Python 3.8+
 - A FireCrawl API key (stored in `.env` file)
+- set up ollama from the website - https://ollama.com/library/mistral
+- Run this command to pull the model : ollama run mistral, ollama pull mistral
 
 ### Steps
 1. Clone the repository:
