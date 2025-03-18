@@ -1,1 +1,6 @@
-
+streamlit
+langchain_community
+langchain
+firecrawl
+tiktoken
+chromadb
