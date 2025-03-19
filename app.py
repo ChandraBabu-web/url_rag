@@ -127,7 +127,7 @@ def process_input(urls, question):
     return result
 
 # Streamlit UI
-st.title("Website Query with Ollama (FireCrawl)")
+st.title("Website Query with Ollama (RAG)")
 st.write("Enter URLs (one per line) and a question to query the documents.")
 
 # Input fields
