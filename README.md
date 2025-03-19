@@ -1,4 +1,4 @@
-# Website Query with Ollama (FireCrawl)
+# Website Query with Ollama (RAG)
 
 ## Overview
 This project is a Streamlit-based web application that allows users to query websites for information using the FireCrawl API. The application scrapes the provided URLs, processes the extracted text into vector embeddings using Hugging Face BGE embeddings, and performs a Retrieval-Augmented Generation (RAG) process to generate an AI-powered answer to the user’s query using Ollama with the Mistral model.
